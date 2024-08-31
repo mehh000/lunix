@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "950488996382",
+    "project_id": "lunix-3176a",
+    "storage_bucket": "lunix-3176a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950488996382:android:18e9d515c92d9f740cac0f",
+        "android_client_info": {
+          "package_name": "com.example.lunix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwPUvb-RDYqExUxQcgmrH_OF55Y1ZZGnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
